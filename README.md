@@ -1,7 +1,5 @@
 # dokottahealth-utils
 
-**English** | [Português](README.pt.md)
-
 Small, dependency-free tools for sports and wearable health data. Python 3 standard library only.
 
 | file | what it does |
